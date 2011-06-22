@@ -1,0 +1,6691 @@
+!!com.aptana.scripting.model.BundleElement
+author: null
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: CI Controller Definition
+    customProperties: null
+    displayName: CI Controller Definition
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: CI Model Definition
+    customProperties: null
+    displayName: CI Model Definition
+    path: bundle.rb
+    scope: null
+  - children:
+    - children:
+      - children: *id001
+        commandName: $config['create_thumb']
+        customProperties: null
+        displayName: $config['create_thumb']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['cur_tag_close']
+        customProperties: null
+        displayName: $config['cur_tag_close']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['cur_tag_open']
+        customProperties: null
+        displayName: $config['cur_tag_open']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['dynamic_output']
+        customProperties: null
+        displayName: $config['dynamic_output']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['image_library']
+        customProperties: null
+        displayName: $config['image_library']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['library_path']
+        customProperties: null
+        displayName: $config['library_path']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['maintain_ratio']
+        customProperties: null
+        displayName: $config['maintain_ratio']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['master_dim']
+        customProperties: null
+        displayName: $config['master_dim']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['new_image']
+        customProperties: null
+        displayName: $config['new_image']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['quality']
+        customProperties: null
+        displayName: $config['quality']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['rotation_angle']
+        customProperties: null
+        displayName: $config['rotation_angle']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['source_image']
+        customProperties: null
+        displayName: $config['source_image']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['thumb_marker']
+        customProperties: null
+        displayName: $config['thumb_marker']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['uri_segment']
+        customProperties: null
+        displayName: $config['uri_segment']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['width']
+        customProperties: null
+        displayName: $config['width']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['x_axis']
+        customProperties: null
+        displayName: $config['x_axis']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $config['y_axis']
+        customProperties: null
+        displayName: $config['y_axis']
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: $config['first_link']
+          customProperties: null
+          displayName: $config['first_link']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['first_tag_open']
+          customProperties: null
+          displayName: $config['first_tag_open']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['first_tag_close']
+          customProperties: null
+          displayName: $config['first_tag_close']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: '-'
+          customProperties: null
+          displayName: '-'
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['prev_link']
+          customProperties: null
+          displayName: $config['prev_link']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['prev_tag_open']
+          customProperties: null
+          displayName: $config['prev_tag_open']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['prev_tag_close']
+          customProperties: null
+          displayName: $config['prev_tag_close']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: '-'
+          customProperties: null
+          displayName: '-'
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['next_link']
+          customProperties: null
+          displayName: $config['next_link']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['next_tag_open']
+          customProperties: null
+          displayName: $config['next_tag_open']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['next_tag_close']
+          customProperties: null
+          displayName: $config['next_tag_close']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: '-'
+          customProperties: null
+          displayName: '-'
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['last_link']
+          customProperties: null
+          displayName: $config['last_link']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['last_tag_open']
+          customProperties: null
+          displayName: $config['last_tag_open']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['last_tag_close']
+          customProperties: null
+          displayName: $config['last_tag_close']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: '-'
+          customProperties: null
+          displayName: '-'
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['num_links']
+          customProperties: null
+          displayName: $config['num_links']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['num_tag_open']
+          customProperties: null
+          displayName: $config['num_tag_open']
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: $config['num_tag_close']
+          customProperties: null
+          displayName: $config['num_tag_close']
+          path: bundle.rb
+          scope: null
+        commandName: Links
+        customProperties: null
+        displayName: Links
+        path: bundle.rb
+        scope: null
+      commandName: $config
+      customProperties: null
+      displayName: $config
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: $query->result
+        customProperties: null
+        displayName: $query->result
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->result_array
+        customProperties: null
+        displayName: $query->result_array
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->free_result
+        customProperties: null
+        displayName: $query->free_result
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->row
+        customProperties: null
+        displayName: $query->row
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->row_array
+        customProperties: null
+        displayName: $query->row_array
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->first_row
+        customProperties: null
+        displayName: $query->first_row
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->previous_row
+        customProperties: null
+        displayName: $query->previous_row
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->next_row
+        customProperties: null
+        displayName: $query->next_row
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->last_row
+        customProperties: null
+        displayName: $query->last_row
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->num_fields
+        customProperties: null
+        displayName: $query->num_fields
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: $query->num_rows
+        customProperties: null
+        displayName: $query->num_rows
+        path: bundle.rb
+        scope: null
+      commandName: $query
+      customProperties: null
+      displayName: $query
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: agent (load)
+        customProperties: null
+        displayName: agent (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->accept_charset
+        customProperties: null
+        displayName: agent->accept_charset
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->accept_lang
+        customProperties: null
+        displayName: agent->accept_lang
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->agent_string
+        customProperties: null
+        displayName: agent->agent_string
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->platform
+        customProperties: null
+        displayName: agent->platform
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->version
+        customProperties: null
+        displayName: agent->version
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->is_browser
+        customProperties: null
+        displayName: agent->is_browser
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->browser
+        customProperties: null
+        displayName: agent->browser
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->is_mobile
+        customProperties: null
+        displayName: agent->is_mobile
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->mobile
+        customProperties: null
+        displayName: agent->mobile
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->is_referral
+        customProperties: null
+        displayName: agent->is_referral
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->referrer
+        customProperties: null
+        displayName: agent->referrer
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->is_robot
+        customProperties: null
+        displayName: agent->is_robot
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: agent->robot
+        customProperties: null
+        displayName: agent->robot
+        path: bundle.rb
+        scope: null
+      commandName: Agent
+      customProperties: null
+      displayName: Agent
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: Benchmark snippet
+        customProperties: null
+        displayName: Benchmark snippet
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: benchmark->elapsed_time
+        customProperties: null
+        displayName: benchmark->elapsed_time
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: benchmark->mark
+        customProperties: null
+        displayName: benchmark->mark
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: benchmark->memory_usage (use in view files only!)
+        customProperties: null
+        displayName: benchmark->memory_usage (use in view files only!)
+        path: bundle.rb
+        scope: null
+      commandName: Benchmark
+      customProperties: null
+      displayName: Benchmark
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: calendar (load)
+        customProperties: null
+        displayName: calendar (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->adjust_date
+        customProperties: null
+        displayName: calendar->adjust_date
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->default_template
+        customProperties: null
+        displayName: calendar->default_template
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->generate
+        customProperties: null
+        displayName: calendar->generate
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->get_day_names
+        customProperties: null
+        displayName: calendar->get_day_names
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->get_month_name
+        customProperties: null
+        displayName: calendar->get_month_name
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->get_total_days
+        customProperties: null
+        displayName: calendar->get_total_days
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->initialize
+        customProperties: null
+        displayName: calendar->initialize
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: calendar->parse_template
+        customProperties: null
+        displayName: calendar->parse_template
+        path: bundle.rb
+        scope: null
+      commandName: Calendar
+      customProperties: null
+      displayName: Calendar
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: config->load
+        customProperties: null
+        displayName: config->load
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: config->bcc_batch_mode
+          customProperties: null
+          displayName: config->bcc_batch_mode
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->bcc_batch_size
+          customProperties: null
+          displayName: config->bcc_batch_size
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->charset
+          customProperties: null
+          displayName: config->charset
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->mailpath
+          customProperties: null
+          displayName: config->mailpath
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->mailtype
+          customProperties: null
+          displayName: config->mailtype
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->newline
+          customProperties: null
+          displayName: config->newline
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->priority
+          customProperties: null
+          displayName: config->priority
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->protocol
+          customProperties: null
+          displayName: config->protocol
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->smtp_host
+          customProperties: null
+          displayName: config->smtp_host
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->smtp_port
+          customProperties: null
+          displayName: config->smtp_port
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->smtp_user
+          customProperties: null
+          displayName: config->smtp_user
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->smtp_pass
+          customProperties: null
+          displayName: config->smtp_pass
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->smtp_timeout
+          customProperties: null
+          displayName: config->smtp_timeout
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->useragent
+          customProperties: null
+          displayName: config->useragent
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->validate
+          customProperties: null
+          displayName: config->validate
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: config->wordwrap
+          customProperties: null
+          displayName: config->wordwrap
+          path: bundle.rb
+          scope: null
+        commandName: Email
+        customProperties: null
+        displayName: Email
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: config->item
+        customProperties: null
+        displayName: config->item
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: config->set_item
+        customProperties: null
+        displayName: config->set_item
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: config->slash_item
+        customProperties: null
+        displayName: config->slash_item
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: config->site_url
+        customProperties: null
+        displayName: config->site_url
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: config->system_url
+        customProperties: null
+        displayName: config->system_url
+        path: bundle.rb
+        scope: null
+      commandName: Config
+      customProperties: null
+      displayName: Config
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: db->load
+        customProperties: null
+        displayName: db->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: db->platform
+        customProperties: null
+        displayName: db->platform
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: db->version
+        customProperties: null
+        displayName: db->version
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: db->affected_rows
+        customProperties: null
+        displayName: db->affected_rows
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->start_cache
+          customProperties: null
+          displayName: db->start_cache
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->stop_cache
+          customProperties: null
+          displayName: db->stop_cache
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->cache_delete
+          customProperties: null
+          displayName: db->cache_delete
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->cache_off
+          customProperties: null
+          displayName: db->cache_off
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->cache_on
+          customProperties: null
+          displayName: db->cache_on
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->flush_cache
+          customProperties: null
+          displayName: db->flush_cache
+          path: bundle.rb
+          scope: null
+        commandName: Cache
+        customProperties: null
+        displayName: Cache
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->count_all
+          customProperties: null
+          displayName: db->count_all
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->count_all_results
+          customProperties: null
+          displayName: db->count_all_results
+          path: bundle.rb
+          scope: null
+        commandName: Count
+        customProperties: null
+        displayName: Count
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->set
+          customProperties: null
+          displayName: db->set
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->insert
+          customProperties: null
+          displayName: db->insert
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->insert_id
+          customProperties: null
+          displayName: db->insert_id
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->insert_string
+          customProperties: null
+          displayName: db->insert_string
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->update
+          customProperties: null
+          displayName: db->update
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->update_string
+          customProperties: null
+          displayName: db->update_string
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->delete
+          customProperties: null
+          displayName: db->delete
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->escape
+          customProperties: null
+          displayName: db->escape
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->escape_str
+          customProperties: null
+          displayName: db->escape_str
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->last_query
+          customProperties: null
+          displayName: db->last_query
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->limit
+          customProperties: null
+          displayName: db->limit
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->list_tables
+          customProperties: null
+          displayName: db->list_tables
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->table_exists
+          customProperties: null
+          displayName: db->table_exists
+          path: bundle.rb
+          scope: null
+        commandName: Data
+        customProperties: null
+        displayName: Data
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->select
+          customProperties: null
+          displayName: db->select
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->select_sum
+          customProperties: null
+          displayName: db->select_sum
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->select_avg
+          customProperties: null
+          displayName: db->select_avg
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->select_min
+          customProperties: null
+          displayName: db->select_min
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->select_max
+          customProperties: null
+          displayName: db->select_max
+          path: bundle.rb
+          scope: null
+        commandName: SELECT statement
+        customProperties: null
+        displayName: SELECT statement
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->query
+          customProperties: null
+          displayName: db->query
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->from
+          customProperties: null
+          displayName: db->from
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->distinct
+          customProperties: null
+          displayName: db->distinct
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->get
+          customProperties: null
+          displayName: db->get
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->group_by
+          customProperties: null
+          displayName: db->group_by
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->having
+          customProperties: null
+          displayName: db->having
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->order_by
+          customProperties: null
+          displayName: db->order_by
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->join
+          customProperties: null
+          displayName: db->join
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->simple_query
+          customProperties: null
+          displayName: db->simple_query
+          path: bundle.rb
+          scope: null
+        commandName: Query
+        customProperties: null
+        displayName: Query
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->where
+          customProperties: null
+          displayName: db->where
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->where_in
+          customProperties: null
+          displayName: db->where_in
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->where_not_in
+          customProperties: null
+          displayName: db->where_not_in
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->get_where
+          customProperties: null
+          displayName: db->get_where
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->or_where
+          customProperties: null
+          displayName: db->or_where
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->or_where_in
+          customProperties: null
+          displayName: db->or_where_in
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->or_where_not_in
+          customProperties: null
+          displayName: db->or_where_not_in
+          path: bundle.rb
+          scope: null
+        commandName: WHERE clause
+        customProperties: null
+        displayName: WHERE clause
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->like
+          customProperties: null
+          displayName: db->like
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->not_like
+          customProperties: null
+          displayName: db->not_like
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->or_like
+          customProperties: null
+          displayName: db->or_like
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->or_not_like
+          customProperties: null
+          displayName: db->or_not_like
+          path: bundle.rb
+          scope: null
+        commandName: LIKE clause
+        customProperties: null
+        displayName: LIKE clause
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: db->trans_begin
+          customProperties: null
+          displayName: db->trans_begin
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->trans_start
+          customProperties: null
+          displayName: db->trans_start
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->trans_complete
+          customProperties: null
+          displayName: db->trans_complete
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->trans_status
+          customProperties: null
+          displayName: db->trans_status
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->trans_commit
+          customProperties: null
+          displayName: db->trans_commit
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->trans_off
+          customProperties: null
+          displayName: db->trans_off
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: db->trans_rollback
+          customProperties: null
+          displayName: db->trans_rollback
+          path: bundle.rb
+          scope: null
+        commandName: Transaction
+        customProperties: null
+        displayName: Transaction
+        path: bundle.rb
+        scope: null
+      commandName: Database
+      customProperties: null
+      displayName: Database
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: dbForge load
+        customProperties: null
+        displayName: dbForge load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->add_field
+        customProperties: null
+        displayName: dbforge->add_field
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbForge add_key
+        customProperties: null
+        displayName: dbForge add_key
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->add_column
+        customProperties: null
+        displayName: dbforge->add_column
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->modify_column
+        customProperties: null
+        displayName: dbforge->modify_column
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->drop_column
+        customProperties: null
+        displayName: dbforge->drop_column
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->create_database
+        customProperties: null
+        displayName: dbforge->create_database
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->drop_database
+        customProperties: null
+        displayName: dbforge->drop_database
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->create_table
+        customProperties: null
+        displayName: dbforge->create_table
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->rename_table
+        customProperties: null
+        displayName: dbforge->rename_table
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbforge->drop_table
+        customProperties: null
+        displayName: dbforge->drop_table
+        path: bundle.rb
+        scope: null
+      commandName: dbForge
+      customProperties: null
+      displayName: dbForge
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: DBUtil load
+        customProperties: null
+        displayName: DBUtil load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->list_databases
+        customProperties: null
+        displayName: dbutil->list_databases
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->backup
+        customProperties: null
+        displayName: dbutil->backup
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->optimize_database
+        customProperties: null
+        displayName: dbutil->optimize_database
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->optimize_table
+        customProperties: null
+        displayName: dbutil->optimize_table
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->repair_table
+        customProperties: null
+        displayName: dbutil->repair_table
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->csv_from_result
+        customProperties: null
+        displayName: dbutil->csv_from_result
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: dbutil->xml_from_result
+        customProperties: null
+        displayName: dbutil->xml_from_result
+        path: bundle.rb
+        scope: null
+      commandName: DBUtil
+      customProperties: null
+      displayName: DBUtil
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: Email load
+        customProperties: null
+        displayName: Email load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->initialize
+        customProperties: null
+        displayName: email->initialize
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->clear
+        customProperties: null
+        displayName: email->clear
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->print_debugger
+        customProperties: null
+        displayName: email->print_debugger
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->send
+        customProperties: null
+        displayName: email->send
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->set_alt_message
+        customProperties: null
+        displayName: email->set_alt_message
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->set_mailtype
+        customProperties: null
+        displayName: email->set_mailtype
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->set_wordwrap
+        customProperties: null
+        displayName: email->set_wordwrap
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '-'
+        customProperties: null
+        displayName: '-'
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->from
+        customProperties: null
+        displayName: email->from
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->reply_to
+        customProperties: null
+        displayName: email->reply_to
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->to
+        customProperties: null
+        displayName: email->to
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->cc
+        customProperties: null
+        displayName: email->cc
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->bcc
+        customProperties: null
+        displayName: email->bcc
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->subject
+        customProperties: null
+        displayName: email->subject
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->message
+        customProperties: null
+        displayName: email->message
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: email->attach
+        customProperties: null
+        displayName: email->attach
+        path: bundle.rb
+        scope: null
+      commandName: Email
+      customProperties: null
+      displayName: Email
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: Encrypt load
+        customProperties: null
+        displayName: Encrypt load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: encrypt->encode
+        customProperties: null
+        displayName: encrypt->encode
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: encrypt->decode
+        customProperties: null
+        displayName: encrypt->decode
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: encrypt->sha1
+        customProperties: null
+        displayName: encrypt->sha1
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: encrypt->set_cipher
+        customProperties: null
+        displayName: encrypt->set_cipher
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: encrypt->set_mode
+        customProperties: null
+        displayName: encrypt->set_mode
+        path: bundle.rb
+        scope: null
+      commandName: Encrypt
+      customProperties: null
+      displayName: Encrypt
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: show_404
+        customProperties: null
+        displayName: show_404
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: show_error
+        customProperties: null
+        displayName: show_error
+        path: bundle.rb
+        scope: null
+      commandName: Error
+      customProperties: null
+      displayName: Error
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: FTP load
+        customProperties: null
+        displayName: FTP load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->connect
+        customProperties: null
+        displayName: ftp->connect
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->mirror
+        customProperties: null
+        displayName: ftp->mirror
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->upload
+        customProperties: null
+        displayName: ftp->upload
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->close
+        customProperties: null
+        displayName: ftp->close
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->chmod
+        customProperties: null
+        displayName: ftp->chmod
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->list_files
+        customProperties: null
+        displayName: ftp->list_files
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->mkdir
+        customProperties: null
+        displayName: ftp->mkdir
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->move
+        customProperties: null
+        displayName: ftp->move
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->rename
+        customProperties: null
+        displayName: ftp->rename
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->delete_file
+        customProperties: null
+        displayName: ftp->delete_file
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: ftp->delete_dir
+        customProperties: null
+        displayName: ftp->delete_dir
+        path: bundle.rb
+        scope: null
+      commandName: FTP
+      customProperties: null
+      displayName: FTP
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: HTML Table (load)
+      customProperties: null
+      displayName: HTML Table (load)
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: Image load
+        customProperties: null
+        displayName: Image load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: image_lib->initialize
+        customProperties: null
+        displayName: image_lib->initialize
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: image_lib->display_errors
+        customProperties: null
+        displayName: image_lib->display_errors
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: image_lib->crop
+        customProperties: null
+        displayName: image_lib->crop
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: image_lib->resize
+        customProperties: null
+        displayName: image_lib->resize
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: image_lib->rotate
+        customProperties: null
+        displayName: image_lib->rotate
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: image_lib->watermark
+        customProperties: null
+        displayName: image_lib->watermark
+        path: bundle.rb
+        scope: null
+      commandName: Image
+      customProperties: null
+      displayName: Image
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: input->cookie
+        customProperties: null
+        displayName: input->cookie
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->get
+        customProperties: null
+        displayName: input->get
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->get_post
+        customProperties: null
+        displayName: input->get_post
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->ip_address
+        customProperties: null
+        displayName: input->ip_address
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->post
+        customProperties: null
+        displayName: input->post
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->server
+        customProperties: null
+        displayName: input->server
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->user_agent
+        customProperties: null
+        displayName: input->user_agent
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->valid_ip
+        customProperties: null
+        displayName: input->valid_ip
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: input->xss_clean
+        customProperties: null
+        displayName: input->xss_clean
+        path: bundle.rb
+        scope: null
+      commandName: Input
+      customProperties: null
+      displayName: Input
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: lang->load
+        customProperties: null
+        displayName: lang->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: lang->line
+        customProperties: null
+        displayName: lang->line
+        path: bundle.rb
+        scope: null
+      commandName: Lang
+      customProperties: null
+      displayName: Lang
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: file->load
+        customProperties: null
+        displayName: file->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: helper->load
+        customProperties: null
+        displayName: helper->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: library->load
+        customProperties: null
+        displayName: library->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: plugin->load
+        customProperties: null
+        displayName: plugin->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: scaffolding->load
+        customProperties: null
+        displayName: scaffolding->load
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: vars->load
+        customProperties: null
+        displayName: vars->load
+        path: bundle.rb
+        scope: null
+      commandName: Load Modules
+      customProperties: null
+      displayName: Load Modules
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: log_message('debug')
+        customProperties: null
+        displayName: log_message('debug')
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: log_message('error')
+        customProperties: null
+        displayName: log_message('error')
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: log_message('info')
+        customProperties: null
+        displayName: log_message('info')
+        path: bundle.rb
+        scope: null
+      commandName: Log message
+      customProperties: null
+      displayName: Log message
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: output->enable_profiler
+        customProperties: null
+        displayName: output->enable_profiler
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: output->get_output
+        customProperties: null
+        displayName: output->get_output
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: output->set_header
+        customProperties: null
+        displayName: output->set_header
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: output->set_output
+        customProperties: null
+        displayName: output->set_output
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: output->set_status_header
+        customProperties: null
+        displayName: output->set_status_header
+        path: bundle.rb
+        scope: null
+      commandName: Output
+      customProperties: null
+      displayName: Output
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: pagination (load)
+        customProperties: null
+        displayName: pagination (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: pagination->create_links
+        customProperties: null
+        displayName: pagination->create_links
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: pagination->initialize
+        customProperties: null
+        displayName: pagination->initialize
+        path: bundle.rb
+        scope: null
+      commandName: Pagination
+      customProperties: null
+      displayName: Pagination
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: parser (load)
+        customProperties: null
+        displayName: parser (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: parser->parse
+        customProperties: null
+        displayName: parser->parse
+        path: bundle.rb
+        scope: null
+      commandName: Parser
+      customProperties: null
+      displayName: Parser
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: session (load)
+        customProperties: null
+        displayName: session (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->flashdata
+        customProperties: null
+        displayName: session->flashdata
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->keep_flashdata
+        customProperties: null
+        displayName: session->keep_flashdata
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->set_flashdata
+        customProperties: null
+        displayName: session->set_flashdata
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->sess_destroy
+        customProperties: null
+        displayName: session->sess_destroy
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->userdata
+        customProperties: null
+        displayName: session->userdata
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->set_userdata
+        customProperties: null
+        displayName: session->set_userdata
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: session->unset_userdata
+        customProperties: null
+        displayName: session->unset_userdata
+        path: bundle.rb
+        scope: null
+      commandName: Session
+      customProperties: null
+      displayName: Session
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: table->generate
+        customProperties: null
+        displayName: table->generate
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->set_caption
+        customProperties: null
+        displayName: table->set_caption
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->set_empty
+        customProperties: null
+        displayName: table->set_empty
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->set_heading
+        customProperties: null
+        displayName: table->set_heading
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->set_template
+        customProperties: null
+        displayName: table->set_template
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->add_row
+        customProperties: null
+        displayName: table->add_row
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->make_columns
+        customProperties: null
+        displayName: table->make_columns
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: table->clear
+        customProperties: null
+        displayName: table->clear
+        path: bundle.rb
+        scope: null
+      commandName: Table
+      customProperties: null
+      displayName: Table
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: trackback (load)
+        customProperties: null
+        displayName: trackback (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: trackback->display_errors
+        customProperties: null
+        displayName: trackback->display_errors
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: trackback->receive
+        customProperties: null
+        displayName: trackback->receive
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: trackback->send
+        customProperties: null
+        displayName: trackback->send
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: trackback->send_error
+        customProperties: null
+        displayName: trackback->send_error
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: trackback->send_success
+        customProperties: null
+        displayName: trackback->send_success
+        path: bundle.rb
+        scope: null
+      commandName: Trackback
+      customProperties: null
+      displayName: Trackback
+      path: bundle.rb
+      scope: null
+    - children:
+      - children: *id001
+        commandName: unit (load)
+        customProperties: null
+        displayName: unit (load)
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: unit->active
+        customProperties: null
+        displayName: unit->active
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: unit->report
+        customProperties: null
+        displayName: unit->report
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: unit->result
+        customProperties: null
+        displayName: unit->result
+        path: bundle.rb
+        scope: null
+      - children:
+        - children: *id001
+          commandName: unit->run (is_array)
+          customProperties: null
+          displayName: unit->run (is_array)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_bool)
+          customProperties: null
+          displayName: unit->run (is_bool)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_double)
+          customProperties: null
+          displayName: unit->run (is_double)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_false)
+          customProperties: null
+          displayName: unit->run (is_false)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_float)
+          customProperties: null
+          displayName: unit->run (is_float)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_int)
+          customProperties: null
+          displayName: unit->run (is_int)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_null)
+          customProperties: null
+          displayName: unit->run (is_null)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_numeric)
+          customProperties: null
+          displayName: unit->run (is_numeric)
+          path: bundle.rb
+          scope: null
+        - children: *id001
+          commandName: unit->run (is_string)
+          customProperties: null
+          displayName: unit->run (is_string)
+          path: bundle.rb
+          scope: null
+        commandName: unit->run
+        customProperties: null
+        displayName: unit->run
+        path: bundle.rb
+        scope: null
+      commandName: Unit
+      customProperties: null
+      displayName: Unit
+      path: bundle.rb
+      scope: null
+    commandName: CodeIgniter Snippets
+    customProperties: null
+    displayName: CodeIgniter Snippets
+    path: bundle.rb
+    scope: null
+  commandName: CodeIgniter
+  customProperties: null
+  displayName: CodeIgniter
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.ProjectTemplateElement {customProperties: null, description: CodeIgniter template,
+  displayName: CodeIgniter Template, location: templates/ci.zip, path: bundle.rb,
+  scope: null, type: WEB}
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_thumb]
+  displayName: $config['create_thumb']
+  expansion: '\$config[''create_thumb''] = ''${1:FALSE}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_closetag]
+  displayName: $config['cur_tag_close']
+  expansion: \$config['cur_tag_close'] = '${1:<\/b>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_opentag]
+  displayName: $config['cur_tag_open']
+  expansion: \$config['cur_tag_open'] = '${1:<b>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_dynop]
+  displayName: $config['dynamic_output']
+  expansion: '\$config[''dynamic_output''] = ''${1:FALSE}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_firstlink]
+  displayName: $config['first_link']
+  expansion: \$config['first_link'] = '${1:First}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_firstclose]
+  displayName: $config['first_tag_close']
+  expansion: \$config['first_tag_close'] = '${1:<\/tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_firstopen]
+  displayName: $config['first_tag_open']
+  expansion: \$config['first_tag_open'] = '${1:<tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_imglib]
+  displayName: $config['image_library']
+  expansion: '\$config[''image_library''] = ''${1:GD}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_lastlink]
+  displayName: $config['last_link']
+  expansion: \$config['last_link'] = '${1:Last}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_lastclose]
+  displayName: $config['last_tag_close']
+  expansion: \$config['last_tag_close'] = '${1:<\/tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_lastopen]
+  displayName: $config['last_tag_open']
+  expansion: \$config['last_tag_open'] = '${1:<tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_libpath]
+  displayName: $config['library_path']
+  expansion: '\$config[''library_path''] = ''${1:library_path}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_ratio]
+  displayName: $config['maintain_ratio']
+  expansion: '$config[''maintain_ratio''] = ''${1:TRUE}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_mastdim]
+  displayName: $config['master_dim']
+  expansion: '\$config[''master_dim''] = ''${1:auto}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_newimg]
+  displayName: $config['new_image']
+  expansion: '\$config[''new_image''] = ''${1:image_path}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_next]
+  displayName: $config['next_link']
+  expansion: \$config['next_link'] = '${1:&gt}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_nextclose]
+  displayName: $config['next_tag_close']
+  expansion: \$config['next_tag_close'] = '${1:<\/tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_nextopen]
+  displayName: $config['next_tag_open']
+  expansion: \$config['next_tag_open'] = '${1:<tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_numlinks]
+  displayName: $config['num_links']
+  expansion: \$config['num_links'] = ${1:number_links};
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_numclose]
+  displayName: $config['num_tag_close']
+  expansion: \$config['num_tag_close'] = '${1:<\/div>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_numopen]
+  displayName: $config['num_tag_open']
+  expansion: \$config['num_tag_open'] = '${1:<div>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_prev]
+  displayName: $config['prev_link']
+  expansion: \$config['prev_link'] = '${1:&lt}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_prevtag]
+  displayName: $config['prev_tag_close']
+  expansion: \$config['prev_tag_close'] = '${1:<\/tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_prevopen]
+  displayName: $config['prev_tag_open']
+  expansion: \$config['prev_tag_open'] = '${1:<tag>}';
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_quality]
+  displayName: $config['quality']
+  expansion: '\$config[''quality''] = ''${1:90%}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_angle]
+  displayName: $config['rotation_angle']
+  expansion: '$config[''rotation_angle''] = ''${1:angle}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_imgsrc]
+  displayName: $config['source_image']
+  expansion: '\$config[''source_image''] = ''${1:image_path}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_thumb]
+  displayName: $config['thumb_marker']
+  expansion: '\$config[''thumb_marker''] = ''${1:_thumb};
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_uri]
+  displayName: $config['uri_segment']
+  expansion: \$config['uri_segment'] = ${1:segment};
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_width]
+  displayName: $config['width']
+  expansion: '\$config[''width''] = ''${1:width}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_xaxis]
+  displayName: $config['x_axis']
+  expansion: '\$config[''x_axis''] = ''${1:0}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c_yaxis]
+  displayName: $config['y_axis']
+  expansion: '\$config[''y_axis''] = ''${1:0}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_first]
+  displayName: $query->first_row
+  expansion: \$query->first_row();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_free]
+  displayName: $query->free_result
+  expansion: \$query->free_result();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_last]
+  displayName: $query->last_row
+  expansion: \$query->last_row();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [trigger]
+  displayName: $query->next_row
+  expansion: \$query->next_row();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_nfields]
+  displayName: $query->num_fields
+  expansion: \$query->num_fields();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_nrows]
+  displayName: $query->num_rows
+  expansion: \$query->num_rows();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_prev]
+  displayName: $query->previous_row
+  expansion: \$query->previous_row();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_result]
+  displayName: $query->result
+  expansion: \$query->result();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_resarray]
+  displayName: $query->result_array
+  expansion: \$query->result_array();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_row]
+  displayName: $query->row
+  expansion: \$query->row();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [q_rowarray]
+  displayName: $query->row_array
+  expansion: \$query->row_array();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_load]
+  displayName: agent (load)
+  expansion: \$this->load->library('user_agent');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_charset]
+  displayName: agent->accept_charset
+  expansion: \$this->agent->accept_charset('${1:utf-8}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_lang]
+  displayName: agent->accept_lang
+  expansion: \$this->agent->accept_lang('${1:en}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_string]
+  displayName: agent->agent_string
+  expansion: \$this->agent->agent_string();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_browser]
+  displayName: agent->browser
+  expansion: \$this->agent->browser();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_isbrowser]
+  displayName: agent->is_browser
+  expansion: \$this->agent->is_browser();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_ismobile]
+  displayName: agent->is_mobile
+  expansion: \$this->agent->is_mobile();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_isreferral]
+  displayName: agent->is_referral
+  expansion: \$this->agent->is_referral();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_isrobot]
+  displayName: agent->is_robot
+  expansion: \$this->agent->is_robot();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_mobile]
+  displayName: agent->mobile
+  expansion: \$this->agent->version();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_platform]
+  displayName: agent->platform
+  expansion: \$this->agent->platform();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_referrer]
+  displayName: agent->referrer
+  expansion: \$this->agent->referrer();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_robot]
+  displayName: agent->robot
+  expansion: \$this->agent->robot();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [a_version]
+  displayName: agent->version
+  expansion: \$this->agent->version();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [bm]
+  displayName: Benchmark snippet
+  expansion: '\$this->benchmark->mark(''${1:start}'');
+
+    // the code to benchmark
+
+    $0
+
+    \$this->benchmark->mark(''${2:end}'');
+
+    echo \$this->benchmark->elapsed_time(''$1'', ''$2'');'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [bm_time]
+  displayName: benchmark->elapsed_time
+  expansion: '\$this->benchmark->elapsed_time(''${1:start}'', ''${2:end}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [bm_mark]
+  displayName: benchmark->mark
+  expansion: '$this->benchmark->mark(''${1:benchmark_name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [bm_mem]
+  displayName: benchmark->memory_usage (use in view files only!)
+  expansion: '\$this->benchmark->memory_usage();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_load]
+  displayName: calendar (load)
+  expansion: '\$this->load->library(''calendar'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_adjdt]
+  displayName: calendar->adjust_date
+  expansion: \$this->calendar->adjust_date(${1:month}, ${2:year});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_deftemp]
+  displayName: calendar->default_template
+  expansion: \$this->calendar->default_template();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_gen]
+  displayName: calendar->generate
+  expansion: \$this->calendar->generate(${1:year}, ${2:month}, ${3:$data_array});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_day]
+  displayName: calendar->get_day_names
+  expansion: \$this->calendar->get_day_names(${1:day_type});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_month]
+  displayName: calendar->get_month_name
+  expansion: \$this->calendar->get_month_name(${1:month});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_totaldays]
+  displayName: calendar->get_total_days
+  expansion: \$this->calendar->get_total_days(${1:month}, ${2:year});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_init]
+  displayName: calendar->initialize
+  expansion: \$this->calendar->initialize(\$${1:array_name});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cal_parsetemp]
+  displayName: calendar->parse_template
+  expansion: \$this->calendar->parse_template();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ci_func]
+  displayName: CI Function
+  expansion: "function ${1:function_name}(${2:params})\n{\n\t\\$${3:data_array} =\
+    \ array(\n\t\t'${4:title}' => '${5:My Title Here}'\n\t);\n\n\t$0\n\n\t${6:\\$this->load->view('${7:${1}}'${8:,\\\
+    $${3}});}\n}"
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_bccbatmode]
+  displayName: config->bcc_batch_mode
+  expansion: 'config[''bcc_batch_mode''] = ${1:FALSE};
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_bccbatsize]
+  displayName: config->bcc_batch_size
+  expansion: 'config[''bcc_batch_size''] = ${1:200};
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_charset]
+  displayName: config->charset
+  expansion: 'config[''charset''] = ''${1:utf-8}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [config_item]
+  displayName: config->item
+  expansion: \$this->config->item(${1:item}, ${2:index});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [config_load]
+  displayName: config->load
+  expansion: \$this->config->load(${1:file}, ${2:use_sections}, ${3:fail_gracefully});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_mailpath]
+  displayName: config->mailpath
+  expansion: 'config[''mailpath''] = ''${1:mail}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_mailtype]
+  displayName: config->mailtype
+  expansion: 'config[''mailtype''] = ''${1:text/html}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_newline]
+  displayName: config->newline
+  expansion: 'config[''newline''] = "${1:\n}";
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_priority]
+  displayName: config->priority
+  expansion: 'config[''priority''] = ${1:3};
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_protocol]
+  displayName: config->protocol
+  expansion: 'config[''protocol''] = ''${1:mail}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [config_itemset]
+  displayName: config->set_item
+  expansion: \$this->config->set_item('${1:item_name}', ${2:item_value});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [config_siteurl]
+  displayName: config->site_url
+  expansion: \$this->config->site_url(${1:uri});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [config_itemslash]
+  displayName: config->slash_item
+  expansion: '\$this->config->slash_item(${1:item}, ${2:value});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_smtphost]
+  displayName: config->smtp_host
+  expansion: 'config[''smtp_host''] = ''${1:smtp_server_address}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_smtppass]
+  displayName: config->smtp_pass
+  expansion: 'config[''smtp_pass''] = ''${1:smtp_password}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_smtpport]
+  displayName: config->smtp_port
+  expansion: 'config[''smtp_port''] = ''${1:25}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_smtptime]
+  displayName: config->smtp_timeout
+  expansion: 'config[''smtp_timeout''] = ''${1:5}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_smtpuser]
+  displayName: config->smtp_user
+  expansion: 'config[''smtp_user''] = ''${1:smtp_username}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [config_sysurl]
+  displayName: config->system_url
+  expansion: \$this->config->system_url();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_useragent]
+  displayName: config->useragent
+  expansion: 'config[''useragent''] = ''${1:CodeIgniter}'';
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_validate]
+  displayName: config->validate
+  expansion: 'config[''validate''] = ${1:FALSE};
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_wordwrap]
+  displayName: config->wordwrap
+  expansion: 'config[''wordwrap''] = ${1:TRUE};
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_arows]
+  displayName: db->affected_rows
+  expansion: '\$this->db->affected_rows();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_cachedel]
+  displayName: db->cache_delete
+  expansion: '\$this->db->cache_delete();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_cachedelall]
+  displayName: db->cache_delete_all
+  expansion: '\$this->db->cache_delete_all();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_cacheoff]
+  displayName: db->cache_off
+  expansion: '\$this->db->cache_off();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_cacheon]
+  displayName: db->cache_on
+  expansion: '\$this->db->cache_on();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_countall]
+  displayName: db->count_all
+  expansion: '$this->db->count_all(''${1:table_name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_countallresults]
+  displayName: db->count_all_results
+  expansion: '\$this->db->count_all_results();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_delete]
+  displayName: db->delete
+  expansion: \$this->db->delete('${1:table_name}', array('${2:field}' => ${3:\$value}));
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_distinct]
+  displayName: db->distinct
+  expansion: '\$this->db->distinct();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_escape]
+  displayName: db->escape
+  expansion: \$this->db->escape('${1:text}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_escstr]
+  displayName: db->escape_str
+  expansion: \$this->db->escape_str(${1:'text'});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_cacheflush]
+  displayName: db->flush_cache
+  expansion: '\$this->db->flush_cache();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_from]
+  displayName: db->from
+  expansion: \$query = \$this->db->from('${1:table_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_get]
+  displayName: db->get
+  expansion: '\$this->db->get(''${1:table_name}''${2:, ${3:limit}${4:, ${5:offset}}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_getwhere]
+  displayName: db->get_where
+  expansion: '\$this->db->get_where(''${1:table_name}'', ${2:array()}${3:, ${4:limit}${5:,
+    ${6:offset}}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_group]
+  displayName: db->group_by
+  expansion: '\$this->db->group_by(''${1:field}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_having]
+  displayName: db->having
+  expansion: '\$this->db->having(''${1:field}'', ${2:value});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_insert]
+  displayName: db->insert
+  expansion: \$this->db->insert('${1:table_name}', \$${2:array_name});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_insid]
+  displayName: db->insert_id
+  expansion: '\$this->db->insert_id();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_insstr]
+  displayName: db->insert_string
+  expansion: '\$this->db->insert_string(''${1:table_name}'', ${2:\$data});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_join]
+  displayName: db->join
+  expansion: '\$this->db->join(''${1:join_table_name}'', ''$1.${2:id} = ${3:original_table}.${4:$2}''${5:,
+    ''${6:join_type}}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_lastq]
+  displayName: db->last_query
+  expansion: '\$this->db->last_query();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_like]
+  displayName: db->like
+  expansion: '\$this->db->like(${1:field}, ${2:term}${3:, ''${4:wildcard_position}''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_limit]
+  displayName: db->limit
+  expansion: \$this->db->limit(${1:number_of_rows});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_listtables]
+  displayName: db->list_tables
+  expansion: '\$this->db->list_tables();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_notlike]
+  displayName: db->not_like
+  expansion: '\$this->db->not_like(${1:field}, ${2:term}${3:, ''${4:wildcard_position}''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_orlike]
+  displayName: db->or_like
+  expansion: \$this->db->or_like('${1:field}', \$${2:term});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_ornotlike]
+  displayName: db->or_not_like
+  expansion: \$this->db->or_not_like('${1:field}', \$${2:term});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_orwhere]
+  displayName: db->or_where
+  expansion: '\$this->db->or_where(''${1:field}'', ${2:value});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_orwherein]
+  displayName: db->or_where_in
+  expansion: '\$this->db->or_where_in(''${1:field}'', ${2:value});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db->or_where_not_in]
+  displayName: db->or_where_not_in
+  expansion: '\$this->db->or_where_not_in(''${1:field}'', ${2:value});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_order]
+  displayName: db->order_by
+  expansion: '\$this->db->order_by(''${1:field}'', ${2:asc});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_platform]
+  displayName: db->platform
+  expansion: '\$this->db->platform();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_query]
+  displayName: db->query
+  expansion: \$this->db->query('select ${1:*} from ${2:table_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_select]
+  displayName: db->select
+  expansion: '\$this->db->select(''${1:fields}${2:${3:, to}${4:, select}}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_selavg]
+  displayName: db->select_avg
+  expansion: '\$this->db->select_avg(''${1:field}''${2:, ''${3:rename_to}''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_selmax]
+  displayName: db->select_max
+  expansion: '\$this->db->select_max(''${1:field}''${2:, ''${3:rename_to}''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_selmin]
+  displayName: db->select_min
+  expansion: '\$this->db->select_min(''${1:field}''${2:, ''${3:rename_to}''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_selsum]
+  displayName: db->select_sum
+  expansion: '\$this->db->select_sum(''${1:field}''${2:, ''${3:rename_to}''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_set]
+  displayName: db->set
+  expansion: \$this->db->set('${1:table_name}', \$${2:values});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_simplequery]
+  displayName: db->simple_query
+  expansion: \$this->db->simple_query(${1:'YOUR QUERY HERE'});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_startcache]
+  displayName: db->start_cache
+  expansion: '\$this->db->start_cache();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_stopcache]
+  displayName: db->stop_cache
+  expansion: '\$this->db->stop_cache();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_tblexists]
+  displayName: db->table_exists
+  expansion: '\$this->db->table_exists();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transbegin]
+  displayName: db->trans_begin
+  expansion: '\$this->db->trans_begin();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transcommit]
+  displayName: db->trans_commit
+  expansion: '\$this->db->trans_commit();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transcomplete]
+  displayName: db->trans_complete
+  expansion: '\$this->db->trans_complete();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transoff]
+  displayName: db->trans_off
+  expansion: '\$this->db->trans_off();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transrb]
+  displayName: db->trans_rollback
+  expansion: '\$this->db->trans_rollback();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transstart]
+  displayName: db->trans_start
+  expansion: '\$this->db->trans_start();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_transstat]
+  displayName: db->trans_status
+  expansion: '\$this->db->trans_status();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_update]
+  displayName: db->update
+  expansion: \$this->db->update('${1:table_name}', \$${2:array_name});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_updstr]
+  displayName: db->update_string
+  expansion: '\$this->db->update_string(''${1:table_name}'', ${2:\$data}, ${3:\$where});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_ver]
+  displayName: db->version
+  expansion: '\$this->db->version();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_where]
+  displayName: db->where
+  expansion: '\$this->db->where(''${1:field}''${2:, ${3:value}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_wherein]
+  displayName: db->where_in
+  expansion: '\$this->db->where_in(''${1:field}''${2:, ${3:value}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_wherenotin]
+  displayName: db->where_not_in
+  expansion: '\$this->db->where_not_in(''${1:field}''${2:, ${3:value}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_load]
+  displayName: dbForge load
+  expansion: '\$this->load->dbforge();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_addcol]
+  displayName: dbforge->add_column
+  expansion: '\$this->dbforge->add_column(${1:\$fields});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_addfld]
+  displayName: dbforge->add_field
+  expansion: '\$this->dbforge->add_field(${1:''field_name''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_addkey]
+  displayName: dbForge add_key
+  expansion: '\$this->dbforge->add_key(${1:field_name}${2:, ${3:TRUE}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_createdb]
+  displayName: dbforge->create_database
+  expansion: '\$this->dbforge->create_database(''${1:db_name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_createtbl]
+  displayName: dbforge->create_table
+  expansion: '\$this->dbforge->create_table(${1:table_name});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_dropcol]
+  displayName: dbforge->drop_column
+  expansion: '\$this->dbforge->drop_column(${1:\$fields});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_dropdb]
+  displayName: dbforge->drop_database
+  expansion: '\$this->dbforge->drop_database(${1:db_name});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_droptbl]
+  displayName: dbforge->drop_table
+  expansion: '\$this->dbforge->drop_table(''${1:table_name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_modcol]
+  displayName: dbforge->modify_column
+  expansion: '\$this->dbforge->modify_column(${1:\$fields});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbf_rentbl]
+  displayName: dbforge->rename_table
+  expansion: '\$this->dbforge->rename_table(${1:old_name}, ${2:new_name});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_load]
+  displayName: DBUtil load
+  expansion: '\$this->load->dbutil();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_bkup]
+  displayName: dbutil->backup
+  expansion: '\$this->dbutil->backup(${1:\$backup_prefs});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_csv]
+  displayName: dbutil->csv_from_result
+  expansion: '\$this->dbutil->csv_from_result(${1:\$db_result});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_listdb]
+  displayName: dbutil->list_databases
+  expansion: '\$this->dbutil->list_databases();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_optdb]
+  displayName: dbutil->optimize_database
+  expansion: '\$this->dbutil->optimize_database();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_opttbl]
+  displayName: dbutil->optimize_table
+  expansion: '\$this->dbutil->optimize_table(''${1:table_name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_repairtbl]
+  displayName: dbutil->repair_table
+  expansion: '\$this->dbutil->repair_table(''${1:table_name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [dbu_xml]
+  displayName: dbutil->xml_from_result
+  expansion: '\$this->dbutil->xml_from_result(${1:\$db_result});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_load]
+  displayName: Email load
+  expansion: '\$this->load->library(''email'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_attach]
+  displayName: email->attach
+  expansion: '\$this->email->attach(${1:filename});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_bcc]
+  displayName: email->bcc
+  expansion: '\$this->email->bcc(${1:email_address}, ${2:limit});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_cc]
+  displayName: email->cc
+  expansion: '\$this->email->cc(${1:email_address});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_clear]
+  displayName: email->clear
+  expansion: '\$this->email->clear();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_from]
+  displayName: email->from
+  expansion: '\$this->email->from(''${1:you@your-site.com}'', ''${2:Your Name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_init]
+  displayName: email->initialize
+  expansion: '\$this->email->initialize(${1:config});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_msg]
+  displayName: email->message
+  expansion: '\$this->email->message(${1:body});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_printdbg]
+  displayName: email->print_debugger
+  expansion: '\$this->email->print_debugger();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_replyto]
+  displayName: email->reply_to
+  expansion: '\$this->email->reply_to(''${1:you@your-site.com}'', ''${2:Your Name}'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_send]
+  displayName: email->send
+  expansion: '\$this->email->send();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_altmsg]
+  displayName: email->set_alt_message
+  expansion: '\$this->email->set_alt_message(${1:alternative_message});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_mailtype]
+  displayName: email->set_mailtype
+  expansion: '\$this->email->set_mailtype(${1:text});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_wordwrap]
+  displayName: email->set_wordwrap
+  expansion: '\$this->email->set_wordwrap(${1:TRUE});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_sub]
+  displayName: email->subject
+  expansion: '\$this->email->subject(${1:subject});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [email_to]
+  displayName: email->to
+  expansion: '\$this->email->to(${1:email_address});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [encrypt_load]
+  displayName: Encrypt load
+  expansion: '\$this->load->library(''encrypt'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [encrypt_decode]
+  displayName: encrypt->decode
+  expansion: '\$this->encrypt->decode(${1:text});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [encrypt_encode]
+  displayName: encrypt->encode
+  expansion: '\$this->encrypt->encode(${1:text});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [encrypt_cipher]
+  displayName: encrypt->set_cipher
+  expansion: '\$this->encrypt->set_cipher(${1:MCRYPT_BLOWFISH});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [encrypt_mode]
+  displayName: encrypt->set_mode
+  expansion: '\$this->encrypt->set_mode(${1:''MCRYPT_MODE_CFB''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [encrypt_sha1]
+  displayName: encrypt->sha1
+  expansion: \$this->encrypt->sha1(${1:'message'});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_load]
+  displayName: FTP load
+  expansion: '\$this->load->library(''ftp'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_chmod]
+  displayName: ftp->chmod
+  expansion: '\$this->ftp->chmod(''${1:directory/file_path}'', ${2:permission_code});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_close]
+  displayName: ftp->close
+  expansion: '\$this->ftp->close();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_connect]
+  displayName: ftp->connect
+  expansion: '\$this->ftp->connect(${1:$config});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_deldir]
+  displayName: ftp->delete_dir
+  expansion: \$this->ftp->delete_file('${1:file_dir}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_delfile]
+  displayName: ftp->delete_file
+  expansion: \$this->ftp->delete_file('${1:file_path}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_list]
+  displayName: ftp->list_files
+  expansion: \$this->ftp->list_files('${1:directory_path}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_mirror]
+  displayName: ftp->mirror
+  expansion: \$this->ftp->mirror('${1:local_folder_path}', '${1:remote_folder_path}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_mkdir]
+  displayName: ftp->mkdir
+  expansion: \$this->ftp->mkdir('${1:directory_path}', ${1:permission_code});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_mv]
+  displayName: ftp->move
+  expansion: \$this->ftp->move('${1:original_file_path}', '${2:new_file_path}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_rename]
+  displayName: ftp->rename
+  expansion: \$this->ftp->rename('${1:original_name}', '${2:new_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ftp_upload]
+  displayName: ftp->upload
+  expansion: \$this->ftp->upload('${1:/local/path/to/myfile.html}', '${2:/public_html/myfile.html}', '${3:auto}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [html_tableload]
+  displayName: HTML Table (load)
+  expansion: \$this->load->library('table');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_load]
+  displayName: Image load
+  expansion: \$this->load->library('image_lib');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_crop]
+  displayName: image_lib->crop
+  expansion: '\$this->image_lib->crop();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_errors]
+  displayName: image_lib->display_errors
+  expansion: '\$this->image_lib->display_errors();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_init]
+  displayName: image_lib->initialize
+  expansion: '\$this->image_lib->initialize($config);
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_resize]
+  displayName: image_lib->resize
+  expansion: '\$this->image_lib->resize();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_rotate]
+  displayName: image_lib->rotate
+  expansion: '\$this->image_lib->rotate();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [img_watermark]
+  displayName: image_lib->watermark
+  expansion: '\$this->image_lib->watermark();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_cookie]
+  displayName: input->cookie
+  expansion: \$this->input->cookie('${1:name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_get]
+  displayName: input->get
+  expansion: '\$this->input->get(''${1:name}''${2:,${3:TRUE}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_getpost]
+  displayName: input->get_post
+  expansion: '\$this->input->get_post(''${1:name}''${2:,${3:TRUE}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_ip]
+  displayName: input->ip_address
+  expansion: '\$this->input->ip_address();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_post]
+  displayName: input->post
+  expansion: '\$this->input->post(''${1:name}''${2:,${3:TRUE}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_server]
+  displayName: input->server
+  expansion: \$this->input->server('${1:name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_useragent]
+  displayName: input->user_agent
+  expansion: '\$this->input->user_agent();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_validip]
+  displayName: input->valid_ip
+  expansion: \$this->input->valid_ip(${1:\$ip});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [input_xssclean]
+  displayName: input->xss_clean
+  expansion: \$this->input->xss_clean(${1:\$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [lang_line]
+  displayName: lang->line
+  expansion: \$this->lang->line('${1:language_key}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [lang _load]
+  displayName: lang->load
+  expansion: \$this->lang->load('${1:filename}', '${2:language}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [db_load]
+  displayName: db->load
+  expansion: \$this->load->database(${1});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [file_load]
+  displayName: file->load
+  expansion: \$this->load->file('${1:filepath/filename}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [helper_load]
+  displayName: helper->load
+  expansion: \$this->load->helper('${1:helper_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [lib_load]
+  displayName: library->load
+  expansion: \$this->load->library('${1:library_name}'${2:, \$${3:config}, '${4:model_name}'});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [plugin_load]
+  displayName: plugin->load
+  expansion: \$this->load->plugin('${1:plugin_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [scaffolding_load]
+  displayName: scaffolding->load
+  expansion: \$this->load->scaffolding('${1:table_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [vars_load]
+  displayName: vars->load
+  expansion: \$this->load->vars(\$${1:array_name});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [logmsg_debug]
+  displayName: log_message('debug')
+  expansion: 'log_message(''debug'', ${1:''Debug message''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [logmsg_error]
+  displayName: log_message('error')
+  expansion: 'log_message(''error'', ${1:''Error message''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [logmsg_info]
+  displayName: log_message('info')
+  expansion: 'log_message(''info'', ${1:''Informational message''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [op_enprofiler]
+  displayName: output->enable_profiler
+  expansion: \$this->output->enable_profiler('${1:TRUE/FALSE}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [op_get]
+  displayName: output->get_output
+  expansion: '\$this->output->get_output();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [op_setheader]
+  displayName: output->set_header
+  expansion: \$this->output->set_header('${1:header_info}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [op_set]
+  displayName: output->set_output
+  expansion: \$this->output->set_output(${1:$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [op_setstatheader]
+  displayName: output->set_status_header
+  expansion: \$this->output->set_status_header('${1:401}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [page_load]
+  displayName: pagination (load)
+  expansion: \$this->load->library('pagination');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [page_createlinks]
+  displayName: pagination->create_links
+  expansion: '\$this->pagination->create_links();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [page_init]
+  displayName: pagination->initialize
+  expansion: \$this->pagination->initialize(${1:$config});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [parser_load]
+  displayName: parser (load)
+  expansion: \$this->load->library('parser');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [parser_parse]
+  displayName: parser->parse
+  expansion: \$this->parser->parse('${1:template_path}', ${2:$data}, ${3:FALSE});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_load]
+  displayName: session (load)
+  expansion: '\$this->load->library(''session'');
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_flashdata]
+  displayName: session->flashdata
+  expansion: \$this->session->flashdata('${1:item}')
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_keepflash]
+  displayName: session->keep_flashdata
+  expansion: \$this->session->keep_flashdata('${1:item}')
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_destroy]
+  displayName: session->sess_destroy
+  expansion: '\$this->session->sess_destroy();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_setflash]
+  displayName: session->set_flashdata
+  expansion: '\$this->session->set_flashdata(${1:name}, ${2:value});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_setuser]
+  displayName: session->set_userdata
+  expansion: '\$this->session->set_userdata(${1:name}${2:, ${3:value}});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_unsetuser]
+  displayName: session->unset_userdata
+  expansion: '\$this->session->unset_userdata(${1:name});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [session_userdata]
+  displayName: session->userdata
+  expansion: \$this->session->userdata('${1:item}')
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [show_404]
+  displayName: show_404
+  expansion: 'show_404(${1:''Page''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [show_error]
+  displayName: show_error
+  expansion: 'show_error(${1:''Message''});
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_addrow]
+  displayName: table->add_row
+  expansion: \$this->table->add_row(${1:$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_clear]
+  displayName: table->clear
+  expansion: '\$this->table->clear();
+
+    $0'
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_gen]
+  displayName: table->generate
+  expansion: \$this->table->generate(${1:$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_addcol]
+  displayName: table->make_columns
+  expansion: \$this->table->make_columns(${1:$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_caption]
+  displayName: table->set_caption
+  expansion: \$this->table->set_caption(${1:$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_empty]
+  displayName: table->set_empty
+  expansion: \$this->table->set_empty('${1:&nbsp;}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_heading]
+  displayName: table->set_heading
+  expansion: \$this->table->set_heading(${1:$data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tbl_template]
+  displayName: table->set_template
+  expansion: \$this->table->set_template(${1:$tmpl});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tback_load]
+  displayName: trackback (load)
+  expansion: \$this->load->library('trackback');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tback_disperr]
+  displayName: trackback->display_errors
+  expansion: \$this-trackback->display_errors();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tback_receive]
+  displayName: trackback->receive
+  expansion: \$this->trackback->receive();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tback_send]
+  displayName: trackback->send
+  expansion: \$this->trackback->send(${1:$tb_data});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tback_senderr]
+  displayName: trackback->send_error
+  expansion: \$this->trackback->send_error('${1:Error Message}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [tback_success]
+  displayName: trackback->send_success
+  expansion: \$this->trackback->send_success();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_load]
+  displayName: unit (load)
+  expansion: \$this->load->library('unit_test');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_active]
+  displayName: unit->active
+  expansion: \$this->unit->active${1:FALSE});
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_report]
+  displayName: unit->report
+  expansion: \$this->unit->report();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_result]
+  displayName: unit->result
+  expansion: \$this->unit->result();
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisarray]
+  displayName: unit->run (is_array)
+  expansion: \$this->unit->run(${1:$test}, 'is_array', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisbool]
+  displayName: unit->run (is_bool)
+  expansion: \$this->unit->run(${1:$test}, 'is_bool', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisdouble]
+  displayName: unit->run (is_double)
+  expansion: \$this->unit->run(${1:$test}, 'is_double', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisfalse]
+  displayName: unit->run (is_false)
+  expansion: \$this->unit->run(${1:$test}, 'is_false', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisfloat]
+  displayName: unit->run (is_float)
+  expansion: \$this->unit->run(${1:$test}, 'is_float', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisint]
+  displayName: unit->run (is_int)
+  expansion: \$this->unit->run(${1:$test}, 'is_int', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisnull]
+  displayName: unit->run (is_null)
+  expansion: \$this->unit->run(${1:$test}, 'is_null', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisnumeric]
+  displayName: unit->run (is_numeric)
+  expansion: \$this->unit->run(${1:$test}, 'is_numeric', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [unit_runisstring]
+  displayName: unit->run (is_string)
+  expansion: \$this->unit->run(${1:$test}, 'is_string', '${3:test_name}');
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [defcon]
+  displayName: CI Controller Definition
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [defmod]
+  displayName: CI Model Definition
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#db']
+  displayName: Load database
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#file']
+  displayName: Load file
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#helper']
+  displayName: Load helper
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#lib']
+  displayName: Load library
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#plugin']
+  displayName: Load plugin
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#scaf']
+  displayName: Load scaffolding
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#vars']
+  displayName: Load vars
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#view']
+  displayName: Load view
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: ['#model']
+  displayName: Load model
+  input: [line]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+copyright: null
+customProperties: null
+decreaseIndentMarkers: &id002 {}
+description: null
+displayName: CodeIgniter
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: null
+visible: true
