@@ -1,3 +1,5 @@
 This is a custom CodeIgniter bundle for Aptana Studio 3.x
-The entire codeigniter.ruble folder should be pasted into <AptanaDirectory>/configuration/org.eclipse.osgi/bundles/75/1/.cp/bundles
+Installation:
+Windows: Copy the entire codeigniter.ruble folder into <AptanaDirectory>/configuration/org.eclipse.osgi/bundles/75/1/.cp/bundles
+Linux: Copy the entire codeigniter.ruble folder into "$HOME/Documents/Aptana Rubles"
 The project also contains a working copy of the CodeIgniter framework that is used to generate projects through a template. The same can be found under Web templates in Aptana Studio
